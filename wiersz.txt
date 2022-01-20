@@ -1,10 +1,6 @@
 Białe jest niebo zielona trawa
 to są Twe barwy Lechio Kochana.
 
-pójdz do biedronki i kup banana
-na na na na nana na
-
-
 Mam trzy latka trzy i pół
 brodą sięgam ponad stół.
 
@@ -12,6 +8,7 @@ brodą sięgam ponad stół.
 W Gdańsku na rynku neptun w oddali
 chroni Lechijkę trójzębem ze stali.
 
+<<<<<<< HEAD
 
 zapiekanki na kolacje
 dobre jedzonko
@@ -22,3 +19,5 @@ by niszczyć naszych odwiecznych rywali.
 Mam fartuszek z muchomorkiem
 do przedszkola chodzę z workiem.
 
+=======
+>>>>>>> parent of 2f8fd76 (Merge pull request #3 from KarolW97/add-new-line)
