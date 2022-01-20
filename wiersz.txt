@@ -8,10 +8,7 @@ brodą sięgam ponad stół.
 W Gdańsku na rynku neptun w oddali
 chroni Lechijkę trójzębem ze stali.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-<<<<<<< HEAD
 zapiekanki na kolacje
 dobre jedzonko
 
@@ -21,9 +18,3 @@ by niszczyć naszych odwiecznych rywali.
 Mam fartuszek z muchomorkiem
 do przedszkola chodzę z workiem.
 
-=======
->>>>>>> parent of 2f8fd76 (Merge pull request #3 from KarolW97/add-new-line)
-=======
->>>>>>> parent of 2f8fd76 (Merge pull request #3 from KarolW97/add-new-line)
-=======
->>>>>>> parent of 4860a42 (Merge branch 'main' into second-lines)
